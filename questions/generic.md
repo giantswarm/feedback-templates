@@ -6,5 +6,5 @@
 
 # Collaboration and Communication
 
-- Do they communicate clearly and respectfully?
-- Do they foster a healthy and inclusive environment?
+- How would you describe the way they communicate and collaborate with others?
+- What impact have they had on the team culture and working environment?

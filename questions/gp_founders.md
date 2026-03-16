@@ -1,9 +1,9 @@
-# Leadership
+# Vision & Direction
 
-- My colleague escalates topics about which I talk to him/her in our 1:1 to the right people (fast).  
-- My colleague provides context wherever needed. 
+- How effectively does this person communicate the company's vision and translate it into clear direction for others?
+- Can you give an example of how they aligned the team or company on a difficult strategic or cross-functional decision?
 
-# Cross Functional 
+# Cross-Functional Leadership
 
-- My colleague can change the flight level quickly to whichever is needed 
-- My colleague connects with other leadership people to find a common ground on controversial topics 
+- How well do they navigate across different functions (product, sales, engineering) to remove blockers and drive outcomes?
+- How do they respond when different parts of the organization are pulling in different directions?

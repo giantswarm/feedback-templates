@@ -1,9 +1,9 @@
 # Prioritization & Strategy
 
-- Do they prioritize work clearly and align it with company goals?
-- Are they able to communicate tradeoffs and reasoning to stakeholders?
+- How do they approach prioritization decisions, and how well do they connect the work to company goals?
+- How do they handle competing demands from different stakeholders — can you give a specific example?
 
 # Stakeholder Alignment
 
-- Do they keep engineering and design aligned with strategic priorities?
-- Do they act as an anchor for product decisions?
+- How effectively do they keep engineering and other teams aligned on the product direction?
+- How do they show up as an anchor for product decisions when there is disagreement or uncertainty?
